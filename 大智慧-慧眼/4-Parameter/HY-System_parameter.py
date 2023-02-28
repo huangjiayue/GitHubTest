@@ -1,16 +1,16 @@
 # _*_ coding: cp936 _*_
 
 # ================================
-# ==========¡¾È«¾Ö±äÁ¿¡¿==========
+# ==========ã€å…¨å±€å˜é‡ã€‘==========
 # ================================
 
-# ²âÊÔ»·¾³(sysadmin/sysadmin)
+# æµ‹è¯•ç¯å¢ƒ(sysadmin/sysadmin)
 UAT = u'http://10.15.94.27:8079/login/'
 PRE = u'http://xsdev.finchina.com/'
 
-# ¸ùÄ¿Â¼
-#Root_Path = u'E:\\SoftwareDevelopment\\TommasWork\\RIDE\\00_CODE\\Á¢±£Í¨PC¶Ë-H5\\'
-# Ä¿Â¼_ÓÃ²ÎÊıÎÄ¼ş
+# æ ¹ç›®å½•
+#Root_Path = u'E:\\SoftwareDevelopment\\TommasWork\\RIDE\\00_CODE\\ç«‹ä¿é€šPCç«¯-H5\\'
+# ç›®å½•_ç”¨å‚æ•°æ–‡ä»¶
 # Parameter_Path = Root_Path + '4-Parameter\\'
 # Parameter_Path_4013Batch = Root_Path + '4-Parameter\\Batches\\Batch-4013\\'
 # Parameter_Path_2019GoodStart = Root_Path + '4-Parameter\\2019GoodStart\\'
@@ -18,20 +18,20 @@ PRE = u'http://xsdev.finchina.com/'
 # Parameter_Path_Function = Root_Path + '4-Parameter\\Function\\'
 # Parameter_Path_Tasks = Root_Path + '4-Parameter\\Tasks\\'
 
-# ²úÆ··ÑÂÊ¸²¸Ç£¨4.22°æ±¾ ·¢²¼1 20190414£©
+# äº§å“è´¹ç‡è¦†ç›–ï¼ˆ4.22ç‰ˆæœ¬ å‘å¸ƒ1 20190414ï¼‰
 # Parameter_Path_4061_rate = Root_Path + '4-Parameter\\Rates\\Rate-4061\\'
 # Parameter_Path_4062_rate = Root_Path + '4-Parameter\\Rates\\Rate-4062\\'
 # Parameter_Path_4063_rate = Root_Path + '4-Parameter\\Rates\\Rate-4063\\'
 
 # ================================
-# ==========¡¾ÔªËØ¶¨Î»¡¿==========
+# ==========ã€å…ƒç´ å®šä½ã€‘==========
 # ================================
-#¡¾ µÇ Â¼ Ò³ ¡¿
-# ÓÃ»§Ãû_ÊäÈë
+#ã€ ç™» å½• é¡µ ã€‘
+# ç”¨æˆ·å_è¾“å…¥
 login_username = u"xpath=//form[@class='el-form el-form--label-right']/div[1]/div/div/input"
-# ÃÜÂë_ÊäÈë
+# å¯†ç _è¾“å…¥
 login_password = u"xpath=//form[@class='el-form el-form--label-right']/div[2]/div/div/input"
-# µÇÂ¼_°´Å¥
+# ç™»å½•_æŒ‰é’®
 login_button = u"xpath=//form[@class='el-form el-form--label-right']/button"
 # 
 # xpath=//form[@class='el-form el-form--label-right']/button
